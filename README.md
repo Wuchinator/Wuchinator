@@ -14,4 +14,4 @@
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wuchiantor&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Wuchinator&theme=solarized_dark)
